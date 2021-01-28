@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/esivxxx/Downloads/SeleniumJar/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/esivxxx/Downloads/log4jJar/log4j-1.2.17.jar" sourcepath="C:/Users/esivxxx/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/esivxxx/Downloads/SeleniumJar/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/esivxxx/Downloads/SeleniumJar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
